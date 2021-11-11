@@ -22,9 +22,9 @@
 )
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcyMellow&show_icons=true&theme=github_dark)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcyMellow&layout=compact&theme=github_dark&hide_border=true)](https://github.com/MarcyMellow/github-readme-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcyMellow&theme=github-dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelyMelo&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelyMelo&layout=compact&theme=github_dark&hide_border=true)](https://github.com/MarcelyMelo/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcelyMelo&theme=github-dark)](https://git.io/streak-stats)
 ## Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcyMellow&theme=darkhub)](https://github.com/MarcyMellow/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcelyMelo&theme=darkhub)](https://github.com/MarcelyMelo/github-profile-trophy)
 
