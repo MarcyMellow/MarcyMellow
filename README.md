@@ -21,6 +21,8 @@
 )![sublime text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
 )
 
+##
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelyMelo&show_icons=true&theme=github_dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelyMelo&layout=compact&theme=github_dark)](https://github.com/MarcelyMelo/github-readme-stats) -->
@@ -28,3 +30,7 @@
 ## Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcelyMelo&theme=darkhub)](https://github.com/MarcelyMelo/github-profile-trophy)
 
+##
+
+<a href="mailto:marcelyjfmelo@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/marcelymelo/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
