@@ -31,6 +31,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcelyMelo&theme=darkhub)](https://github.com/MarcelyMelo/github-profile-trophy)
 
 ##
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelymelo)](https://github.com/marcelymelo/github-readme-stats) -->
+
 
 <a href="mailto:marcelyjfmelo@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/marcelymelo/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
