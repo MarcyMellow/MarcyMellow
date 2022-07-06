@@ -22,10 +22,10 @@
 ) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ##
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelyMelo&layout=compact&theme=github_dark)](https://github.com/MarcelyMelo/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelyMelo&show_icons=true&theme=github_dark)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelyMelo&layout=compact&theme=github_dark)](https://github.com/MarcelyMelo/github-readme-stats) -->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcelyMelo&theme=github-dark)](https://git.io/streak-stats)
 ## Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcelyMelo&theme=darkhub)](https://github.com/MarcelyMelo/github-profile-trophy)
