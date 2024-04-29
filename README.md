@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on FrontEnd Apps.
 - 💬 Ask me about `Unity` and `JavaScript`.
 - 😄 Pronouns: her/hers.
-- ⚡ Fun fact: I love cats!
+- ⚡ Fun fact: I love dogs!
 
 ### Top Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
